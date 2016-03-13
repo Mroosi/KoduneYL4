@@ -57,6 +57,7 @@
   position: fixed;
   left: 0;
   bottom: 0;
+  width: 100%;
 }
 body{
   background: #0A24A9;
